@@ -18,4 +18,4 @@ This is a React-based e-commerce application built with Vite, featuring product 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-ecommerce-app.git
+   git clone https://github.com/amirshabbir/my-ecommerce-app.git
